@@ -2,7 +2,7 @@
 
 A modern web application for tracking study habits with AI-powered insights, reminders, and Supabase authentication.
 
-![StudyFlow](https://via.placeholder.com/800x400?text=StudyFlow+Study+Tracker)
+![StudyFlow](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Features
 
